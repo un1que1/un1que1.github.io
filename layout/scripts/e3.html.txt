@@ -1,0 +1,19 @@
+!-- SV PR --
+script type=textjavascript data-key=1Tfa-JEqu-EfFC
+	(function(w, a) {
+		(w[a] = w[a]  []).push({
+			'script_key' '1Tfa-JEqu-EfFC',
+			'settings' {
+				'widget' 16269
+			}
+		});
+		if(!window['_PREmbed2']) {
+			var node = document.createElement('script'); node.type = 'textjavascript'; node.async = true;
+			node.src = 'sv-pr.rujsPREmbed.js';
+			(document.getElementsByTagName('head')[0]  document.getElementsByTagName('body')[0]).appendChild(node);
+		} else {
+			window['_PREmbed2'].initWidgets();
+		}
+	})(window, '_pr_n_widgets');
+script
+!-- SV PR --
